@@ -9,3 +9,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * amet
 
 > Dann macht das Programm bumm und keiner weiß warum.
+
+<img src="https://docs.github.com/assets/cb-39745/mw-1440/images/help/writing/image-rendered.webp"/>
